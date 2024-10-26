@@ -1,0 +1,7 @@
+{
+    "name": "Your Token Name",            
+    "symbol": "TOKEN_SYMBOL",              
+    "uri": "https://yourdomain.com/path/to/your/token-metadata.json",
+    "seller_fee_basis_points": 500,       // Fee in basis points (500 means 5%)
+    "creators": null                       // If applicable, replace with creators' info or keep as null
+}

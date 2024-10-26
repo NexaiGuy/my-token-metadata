@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "YOUR_TOKEN_ADDRESS",
+  "symbol": "YOUR_TOKEN_SYMBOL",
+  "name": "Your Token Name",
+  "decimals": DECIMAL_PLACES,
+  "logoURI": "https://path-to-your-logo.com/logo.png",
+  "tags": ["social", "utility"]  // You can add relevant tags
+}

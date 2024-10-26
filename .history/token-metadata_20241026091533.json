@@ -1,0 +1,7 @@
+{
+    "name": "MeulestedeCoin",            
+    "symbol": "",              
+    "uri": "https://yourdomain.com/path/to/your/token-metadata.json",
+    "seller_fee_basis_points": 500,       
+    "creators": null                      
+}
