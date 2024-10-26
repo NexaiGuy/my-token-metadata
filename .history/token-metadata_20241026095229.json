@@ -1,7 +1,8 @@
 {
     "name": "MeulestedeCoin",            
     "symbol": "MDC",              
-    "uri": "https://NexaiGuy.github.io/my-token-metadata/token-metadata.json",
+    "uri": "https://NexaiGuy.github.io/my-token-metadata/token-metadata.json
+",
     "seller_fee_basis_points": 500,       
     "creators": null                      
 }
